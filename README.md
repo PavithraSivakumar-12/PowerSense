@@ -1,4 +1,4 @@
-# ⚡ PowerSense — Household Electricity Consumption ML System
+# ⚡ PowerSense Household Electricity Consumption ML System
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Regressor-orange?style=flat-square)
